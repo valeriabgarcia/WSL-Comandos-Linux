@@ -24,7 +24,7 @@ echo
 case $EXIT in
     y|Y|"") exit ;;
     n|N|"") Menu ;;
-    *) echo "Invalid option" ;;
+    *) echo "Invalid option " ;;
 esac
 }
 Menu
