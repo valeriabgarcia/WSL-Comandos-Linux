@@ -7,4 +7,4 @@ echo
 echo What is your last name?
 read LAST
 echo
-echo "Welcome, $NAME $LAST !"
+echo "Welcome, $NAME $LAST!"
